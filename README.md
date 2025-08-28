@@ -49,7 +49,7 @@ The project was implemented step by step using Python and popular libraries.
 ---
 
 ## 📊 Sample Outputs
-
+<img width="1549" height="754" alt="Image" src="https://github.com/user-attachments/assets/78a31799-1ac6-47c5-aa9d-c2f452c6fe03" />
 
 ---
 
